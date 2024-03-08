@@ -1,6 +1,8 @@
-# MDC wasm repro
+# @nuxjs/mdc wasm error repro
 
-To reproduce the issue:
+Reproduction for https://github.com/nuxt-modules/mdc/issues/159
+
+## Steps to reproduce
 
 1. Clone the repo
 2. Install dependencies with `pnpm install`
